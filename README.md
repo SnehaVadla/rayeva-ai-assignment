@@ -40,6 +40,7 @@ app/
 └── __init__.py
 ```
 
+
 ---
 
 # Module 1 – Product Category Generator
@@ -280,3 +281,5 @@ curl -X POST http://127.0.0.1:8000/generate-category \
 # Author
 
 Project developed as part of an **AI Backend Development Task using FastAPI**.
+
+https://github.com/user-attachments/assets/93872dea-b5f7-4dc3-9b4a-aca83cb30c67
